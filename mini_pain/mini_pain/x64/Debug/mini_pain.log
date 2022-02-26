@@ -1,0 +1,16 @@
+﻿  additional.cpp
+  correct_check.cpp
+  drawing.cpp
+  drawing_2.cpp
+C:\Users\User\Desktop\mini_pain\mini_pain\drawing_2.cpp(31,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\mini_pain\mini_pain\drawing_2.cpp(32,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\mini_pain\mini_pain\drawing_2.cpp(35,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\mini_pain\mini_pain\drawing_2.cpp(36,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  error_check.cpp
+C:\Users\User\Desktop\mini_pain\mini_pain\error_check.cpp(85,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  mini_pain.cpp
+  parsing.cpp
+C:\Users\User\Desktop\mini_pain\mini_pain\parsing.cpp(7,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\mini_pain\mini_pain\parsing.cpp(31,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  mini_pain.vcxproj -> C:\Users\User\Desktop\mini_pain\x64\Debug\mini_pain.exe
